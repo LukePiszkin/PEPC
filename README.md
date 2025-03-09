@@ -4,6 +4,8 @@ The Protein Evolution Parameter Calculator
 Created on Wed Dec 05 15:04:04 2012\
 Jeff Bowman, bowmanjs@gmail.com
 
+Guide written by Luke Piszkin, lpiszkin@gmail.com
+
 ## Recommended Settings
 This guide assumes you are either running a Windows or Linux distribution. No guide is yet avaliable for Mac. 
 
